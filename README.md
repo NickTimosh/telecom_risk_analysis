@@ -1,8 +1,13 @@
 # Risk Analysis and Monthly Trends Case Study
 
+This repository contains the analysis and findings of a case study on risk analysis and monthly trends in the telecommunications industry. The case study focuses on analyzing applications for business postpaid mobile accounts and identifying monthly trends, risks, and opportunities for driving incremental revenue while managing overall risk.
+
 ![image](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/5479976b-fa9c-479c-861a-c9376e569336)
 
-This repository contains the analysis and findings of a case study on risk analysis and monthly trends in the telecommunications industry. The case study focuses on analyzing applications for business postpaid mobile accounts and identifying monthly trends, risks, and opportunities for driving incremental revenue while managing overall risk.
+Visit the Tableau Public to discover more:
+
+https://public.tableau.com/app/profile/nicktimosh/viz/telecom_16867623548950/ActivationTrendandRiskAnalysis
+
 
 ## Problem Description
 
