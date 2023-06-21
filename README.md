@@ -15,22 +15,20 @@ The case study involves analyzing data from applications for business postpaid m
 
 Below diagram, explains the process where a client applies for a mobile phone from a store:
 
-![image](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/bb937e8c-0333-4714-958c-65bffb7f2893)
+![Screenshot 2023-06-21 235343](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/2ce6c6ce-90d2-471d-ac2b-25262fe406b9)
 
-![image](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/53ac9bac-0835-4046-8328-8d3d2fd7a535)
+![Screenshot 2023-06-21 235409](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/90b79f19-7821-42a7-9cc5-67491d1d8465)
 
 ## Data Definition
 The application data is stored in the following two tables and column BAN is the unique key (Primary key) on both the tables.
 
 •	Table  1 – CREDIT_APPLICATIONS
 
-![image](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/ff566513-0654-4b95-acc5-fd4c895430b0)
-
+![Screenshot 2023-06-21 235548](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/dee2f1be-bfd4-4877-83e0-a61d2f33c70d)
 
 •	Table 2 – CREDIT_RISK
 
-![image](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/78c2f0c4-9487-4d5b-a158-1dee31448708)
-
+![image](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/b9734ac0-36d0-4c04-84e9-3e1ebc3e7a52)
 
 •	Table 3 – Target
 Targets for activation rate by month
@@ -38,7 +36,7 @@ Targets for activation rate by month
 • 1 Year Bad debt Rate by Credit Class:
 Bad debt rate is defined as the number of clients those will be delinquent (do not pay their bills) and end up as bad debt (WRITE OFF) with in the first year of activation.
 
-![image](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/ba26325d-67b4-40b7-b75d-019fbd103031)
+![Screenshot 2023-06-21 235654](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/b50debaa-1d77-49ee-9bce-1910cfe20ddd)
 
 ## Analysis Steps
 
