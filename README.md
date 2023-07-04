@@ -8,6 +8,8 @@ Visit the Tableau Public to discover more:
 
 https://public.tableau.com/app/profile/nicktimosh/viz/telecom_16867623548950/ActivationTrendandRiskAnalysis
 
+Please find more insights described in final presentation:
+![Presentation](https://github.com/NickTimosh/telecom_risk_analysis/blob/main/230614_Case_study_final_draft.pdf)
 
 ## Problem Description
 
