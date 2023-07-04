@@ -4,11 +4,11 @@ This repository contains the analysis and findings of a case study on risk analy
 
 ![Screenshot 2023-06-21 235133](https://github.com/NickTimosh/telecom_risk_analysis/assets/116592259/152ddf73-87bc-442e-aa85-8f75514c3a95)
 
-Visit the Tableau Public to discover more:
+📊 Visit the Tableau Public to discover more:
 
 https://public.tableau.com/app/profile/nicktimosh/viz/telecom_16867623548950/ActivationTrendandRiskAnalysis
 
-Please find more insights described in final presentation:
+📄 Please find more insights described in final presentation:
 ![Presentation](https://github.com/NickTimosh/telecom_risk_analysis/blob/main/230614_Case_study_final_draft.pdf)
 
 ## Problem Description
